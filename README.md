@@ -1,3 +1,1 @@
-# my-first-github-repository
-# manual edit
-This is local edit of readme file using vi editor
+discarding both changes and replacing with vi editpr change
